@@ -1,0 +1,236 @@
+/***** BASESTYLES *****/
+
+body {
+
+    font-family: 'Poppins', sans-serif;
+    color: #343131;
+}
+
+/***** GRID *****/
+
+#portfolio, #about, #contact {
+    padding-top: 20px;
+    padding-left: 35px;
+    padding-bottom: 25px;
+    padding-right: 35px;
+}
+
+
+/***** HEADER *****/
+
+.navbar-light {
+    background: #ebebeb;
+}
+
+.navbar-brand {
+    font-family: 'Passion One', cursive;
+    font-size: 24px;
+}
+
+.carousel-caption {
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+
+}
+
+#carouselExampleCaptions h5 {
+    font-family: 'Passion One', cursive;
+    font-size: 35px;
+    color: white;
+    letter-spacing: .5px;
+
+}
+
+#carouselExampleCaptions p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+/***** PORTFOLIO *****/
+
+#portfolio {
+    background: #ebebeb;
+}
+
+#portfolio h3 {
+    font-family: 'Passion One', cursive;
+    font-size: 36px;
+    text-align: center;
+}
+
+.row {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#portfolio p, a {
+    text-align: justify;
+}
+
+#portfolio p {
+    margin-left: 25px; 
+}
+
+#title {
+    color: #AA6F73;
+    text-transform: uppercase;
+    font-size: 50px; 
+}
+
+a:hover {
+    cursor: pointer;
+    color: #AA6F73;
+}
+
+.link {
+    color: #AA6F73;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase; 
+}
+
+
+/***** ABOUT *****/
+
+#about {
+    background: rgba(170, 111, 115, .6);
+}
+
+#about h3 {
+    font-family: 'Passion One', cursive;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+
+}
+
+#about p {
+    text-align: justify;
+    padding-top: 75px;
+}
+
+
+#about img {
+    border: 15px solid white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+/***** CONTACT *****/
+
+#contact {
+    background: #ebebeb;
+}
+
+#contact h3 {
+    font-family: 'Passion One', cursive;
+    font-size: 50px;
+    text-align: center;
+    color: #AA6F73;
+    text-transform: uppercase;
+
+}
+
+.row {
+    text-align: center;
+}
+
+.email {
+    color: #AA6F73;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+
+#contact p {
+    font-size: 24px;
+}
+
+#contact ul {
+    list-style: none;
+}
+
+#contact ul li {
+    display: inline-block;
+}
+
+#contact ul img {
+    font-size: 32px;
+    padding-right: 48px;
+}
+
+/***** FOOTER *****/
+
+footer {
+    background: #ebebeb;
+}
+
+footer h6 {
+    text-align: center;
+    font-family: 'Passion One', cursive;
+}
+
+/******----------------------------------------------------******/
+/******----------------------------------------------------******/
+/******----------------------------------------------------******/
+
+
+
+
+/*****PORTFOLIO - INDEX.HTML******/
+
+body {
+    background: #ebebeb;
+}
+
+/*****HEADER*****/
+
+.temp {
+    font-family: 'Passion One', cursive;
+    background: #AA6F73;
+}
+
+
+
+
+/*****ABOUT - INDEX.HTML******/
+
+
+body {
+    background: #ebebeb;
+}
+
+/*****HEADER*****/
+
+.temp {
+    font-family: 'Passion One', cursive;
+    background: #AA6F73;
+}
+
+
+
+
+
+
+/*****CONTACT - INDEX.HTML******/
+
+
+body {
+    background: #ebebeb;
+}
+
+/*****HEADER*****/
+
+.temp {
+    font-family: 'Passion One', cursive;
+    background: #AA6F73;
+}
+
+
+
